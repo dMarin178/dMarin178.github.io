@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/todo-app-redux-react/static/css/main.b343f371.css",
+    "main.js": "/todo-app-redux-react/static/js/main.7b59f482.js",
+    "index.html": "/todo-app-redux-react/index.html",
+    "static/media/times-solid.svg": "/todo-app-redux-react/static/media/times-solid.dc24ef652734a3143dc7179604e15a08.svg",
+    "main.b343f371.css.map": "/todo-app-redux-react/static/css/main.b343f371.css.map",
+    "main.7b59f482.js.map": "/todo-app-redux-react/static/js/main.7b59f482.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b343f371.css",
+    "static/js/main.7b59f482.js"
+  ]
+}
